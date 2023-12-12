@@ -1,2 +1,2 @@
 # demo_dbt
-First DBT project
+DBT project
